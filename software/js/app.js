@@ -1,8 +1,8 @@
 'use strict';
 
-const ACCOUNT_CMD_HOST = 'http://54.201.207.152:32774/';
-const ACCOUNT_QUERY_HOST = 'http://54.201.207.152:32774/';
-const ACCOUNT_TRANSFER_HOST = 'http://54.201.207.152:8081/';
+const ACCOUNT_CMD_HOST = 'http://54.200.187.158:32774/';
+const ACCOUNT_QUERY_HOST = 'http://54.200.187.158:32774/';
+const ACCOUNT_TRANSFER_HOST = 'http://54.200.187.158:8081/';
 
 var AngularSpringApp = {};
 
